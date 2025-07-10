@@ -43,7 +43,7 @@
       For example: ./assets/screenshot1.png
     -->
     <img src="https://images.guns.lol/nvLEi.jpg" alt="Showcase of the theme" width="80%" style="border-radius: 10px; margin-top: 1rem; border: 2px solid #45475a;"/>
-    <img src="https://github.com/kuisux/Windows11-dotfiles/blob/main/images/ezgif-67ec4a2510804f.gif?raw=true" alt="Showcase of the theme in an editor" width="80%" style="border-radius: 10px; margin-top: 1rem; border: 2px solid #45475a;"/>
+    <a href="https://www.youtube.com/watch?v=aNCx5Vx9Isw"><img src="https://img.youtube.com/vi/aNCx5Vx9Isw/0.jpg)" alt="Showcase of the theme in an editor" width="80%" style="border-radius: 10px; margin-top: 1rem; border: 2px solid #45475a;"/><a/>
   </p>
 
   <br>
