@@ -42,7 +42,7 @@
       You can upload screenshots to your repo and link them directly.
       For example: ./assets/screenshot1.png
     -->
-    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/showcases/catwalk.webp" alt="Showcase of the theme" width="80%" style="border-radius: 10px; margin-top: 1rem; border: 2px solid #45475a;"/>
+    <img src="https://images.guns.lol/446i7.mp4" alt="Showcase of the theme" width="80%" style="border-radius: 10px; margin-top: 1rem; border: 2px solid #45475a;"/>
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/showcases/neovim.webp" alt="Showcase of the theme in an editor" width="80%" style="border-radius: 10px; margin-top: 1rem; border: 2px solid #45475a;"/>
   </p>
 
