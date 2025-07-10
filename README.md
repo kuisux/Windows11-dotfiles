@@ -17,7 +17,7 @@
 
 <div align="center" style="font-family: 'Segoe UI', 'Roboto', sans-serif; background-color: #1e1e2e; color: #cdd6f4; border-radius: 20px; padding: 2rem; margin: 1rem; border: 1px solid #313244;">
 
-  <!-- ASCII Cat Art -->
+  <!-- ASCII Art -->
   <pre style="color: #cba6f7; font-size: 14px; text-align: center; line-height: 1;">
 ███████╗██╗     ██╗      █████╗ 
 ██╔════╝██║     ██║     ██╔══██╗
@@ -28,10 +28,6 @@
 𝖈𝖆𝖙𝖕𝖕𝖚𝖈𝖈𝖎𝖓 𝖉𝖔𝖙𝖋𝖎𝖑𝖊𝖘
   </pre>
 
-  <!-- Header -->
-  <h1 style="color: #cba6f7; font-size: 3em; margin-bottom: 0; text-shadow: 0 0 10px rgba(203, 166, 247, 0.3);">
-    Ella's cozy catppuccin computer :3 🐾
-  </h1>
   <p style="color: #bac2de; font-size: 1.2em; margin-top: 0.5rem;">
     A cozy, Catppuccin-themed collection of dotfiles for Windows 11.
   </p>
