@@ -35,7 +35,7 @@
   <br>
 
   <!-- Showcase / Screenshots -->
-  <h2 style="color: #fab387; border-bottom: 2px solid #45475a; padding-bottom: 5px; font-weight: 600;">✨ A Glimpse into the Cozy ✨</h2>
+  <h2 style="color: #fab387; border-bottom: 2px solid #45475a; padding-bottom: 5px; font-weight: 600;">✨ Preview ✨</h2>
   <p>
     <!-- 
       TODO: Replace these placeholder images with your actual screenshots!
@@ -49,7 +49,7 @@
   <br>
 
   <!-- What's Inside? -->
-  <h2 style="color: #a6e3a1; border-bottom: 2px solid #45475a; padding-bottom: 5px; font-weight: 600;">🎨 The Tools in My Paw-kit 🎨</h2>
+  <h2 style="color: #a6e3a1; border-bottom: 2px solid #45475a; padding-bottom: 5px; font-weight: 600;">🎨 Tools 🎨</h2>
   <p style="color: #bac2de;">Here's a list of the applications I've given the Catppuccin treatment:</p>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; max-width: 800px; margin-left: auto; margin-right: auto;">
     <!-- TODO: Add or remove tools as needed -->
