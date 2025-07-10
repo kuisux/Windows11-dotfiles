@@ -26,7 +26,7 @@
 
   <!-- Header -->
   <h1 style="color: #cba6f7; font-size: 3em; margin-bottom: 0; text-shadow: 0 0 10px rgba(203, 166, 247, 0.3);">
-    My Purr-fect Windows Setup 🐾
+    Ella's cozy catppuccin computer :3 🐾
   </h1>
   <p style="color: #bac2de; font-size: 1.2em; margin-top: 0.5rem;">
     A cozy, Catppuccin-themed collection of dotfiles for Windows 11.
