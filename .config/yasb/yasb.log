@@ -1,0 +1,253 @@
+2025-06-26 13:43:09 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-06-26 13:43:09 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_ad0a017f)
+2025-06-26 13:43:09 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-06-26 13:43:09 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_TOSHIBA-TV_718385ae)
+2025-06-26 13:43:09 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1280, Screen Height: 720]
+2025-06-26 18:04:01 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{7b113450-2e86-4daa-a651-d9e1dfabb50e}
+2025-06-26 23:10:56 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{fbf0874b-7d87-43bf-a4ec-92ab05208b7d}
+2025-06-27 00:16:32 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{42a990cc-37aa-41f6-8227-5181e1448d89}
+2025-06-27 09:32:20 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-06-27 09:32:27 INFO log.py:21: Yasb v1.6.6
+2025-06-27 09:32:27 DEBUG win32.py:55: Looking up time zone info from registry
+2025-06-27 09:32:30 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-06-27 09:32:30 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-06-27 09:32:31 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 0, Screen Width: 1280, Screen Height: 720]
+2025-06-27 09:32:31 INFO log.py:21: Yasb v1.6.6
+2025-06-27 09:32:32 DEBUG win32.py:55: Looking up time zone info from registry
+2025-06-27 09:32:32 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-06-27 09:32:32 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-06-27 09:32:33 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-06-27 09:32:33 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-06-27 09:32:33 INFO event_listener.py:52: Created named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-27 09:32:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-27 09:32:33 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-06-27 09:32:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-06-27 09:32:33 DEBUG _windows.py:192: Thread started
+2025-06-27 09:32:33 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-27 09:33:41 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{7b113450-2e86-4daa-a651-d9e1dfabb50e}
+2025-06-28 10:58:25 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-06-28 10:58:25 INFO event_listener.py:93: Attempting to reconnect...
+2025-06-28 10:58:30 INFO event_listener.py:52: Created named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 10:58:30 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 10:58:30 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 14:25:41 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-06-28 14:25:41 INFO event_listener.py:93: Attempting to reconnect...
+2025-06-28 14:25:46 INFO event_listener.py:52: Created named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 14:25:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 14:25:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 22:18:09 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-06-28 22:18:09 INFO event_listener.py:93: Attempting to reconnect...
+2025-06-28 22:18:14 INFO event_listener.py:52: Created named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 22:18:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-28 22:18:15 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-06-28 22:18:25 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 12:27:07 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-06-29 12:27:07 INFO event_listener.py:93: Attempting to reconnect...
+2025-06-29 12:27:12 INFO event_listener.py:52: Created named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 12:27:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 12:27:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 12:56:57 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-06-29 12:56:57 INFO event_listener.py:93: Attempting to reconnect...
+2025-06-29 12:57:02 INFO event_listener.py:52: Created named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 12:57:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 12:57:02 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-06-29 13:37:20 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 17:58:21 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_505d8d6a)
+2025-06-29 17:58:22 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1824, Screen Height: 1216]
+2025-06-29 17:58:22 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_e0ab2870)
+2025-06-29 17:58:22 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 2736, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-06-29 19:25:00 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_505d8d6a)
+2025-06-29 19:25:00 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-06-29 19:25:00 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_e0ab2870)
+2025-06-29 19:25:00 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-06-29 19:32:05 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-06-29 19:32:05 INFO event_listener.py:93: Attempting to reconnect...
+2025-06-29 19:32:10 INFO event_listener.py:52: Created named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 19:32:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-458414f8-5331-11f0-ba32-5c5f670e771f
+2025-06-29 19:32:10 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-06-30 22:47:35 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-06-30 22:47:40 INFO log.py:21: Yasb v1.6.6
+2025-06-30 22:47:40 ERROR main.py:91: Another instance of the YASB is already running.
+2025-07-01 10:30:30 INFO log.py:21: Yasb v1.6.6
+2025-07-01 10:30:42 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-01 10:31:24 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-01 10:31:24 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-01 10:31:26 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1280, Screen Height: 720]
+2025-07-01 10:31:26 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-01 10:31:26 INFO event_listener.py:52: Created named pipe yasb-28f9b7d0-565e-11f0-a400-d844895410d4
+2025-07-01 10:31:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-28f9b7d0-565e-11f0-a400-d844895410d4
+2025-07-01 10:31:31 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-07-01 10:31:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-01 10:31:31 DEBUG _windows.py:192: Thread started
+2025-07-01 10:31:31 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-07-01 10:31:41 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-28f9b7d0-565e-11f0-a400-d844895410d4
+2025-07-01 10:32:33 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-07-01 10:32:33 INFO log.py:21: Yasb v1.6.6
+2025-07-01 10:32:33 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-01 10:32:34 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-01 10:32:34 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-01 10:32:36 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 0, Screen Width: 1280, Screen Height: 720]
+2025-07-01 10:32:37 INFO log.py:21: Yasb v1.6.6
+2025-07-01 10:32:37 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-01 10:32:37 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-01 10:32:37 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-01 10:32:38 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-01 10:32:38 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-07-01 10:32:38 INFO event_listener.py:52: Created named pipe yasb-53cf7b83-565e-11f0-9b0e-d844895410d4
+2025-07-01 10:32:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-53cf7b83-565e-11f0-9b0e-d844895410d4
+2025-07-01 10:32:38 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-07-01 10:32:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-01 10:32:38 DEBUG _windows.py:192: Thread started
+2025-07-01 10:32:38 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-53cf7b83-565e-11f0-9b0e-d844895410d4
+2025-07-01 10:36:23 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-01 10:36:23 INFO event_listener.py:93: Attempting to reconnect...
+2025-07-01 10:36:28 INFO event_listener.py:52: Created named pipe yasb-53cf7b83-565e-11f0-9b0e-d844895410d4
+2025-07-01 10:36:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-53cf7b83-565e-11f0-9b0e-d844895410d4
+2025-07-01 10:36:28 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-07-01 10:36:38 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-53cf7b83-565e-11f0-9b0e-d844895410d4
+2025-07-01 10:38:56 INFO tray.py:246: Exiting Application...
+2025-07-01 10:38:56 DEBUG _windows.py:218: Stopping worker thread...
+2025-07-01 10:38:56 DEBUG _windows.py:201: Exiting thread
+2025-07-01 10:38:56 DEBUG _windows.py:75: Closing
+2025-07-01 10:39:01 INFO log.py:21: Yasb v1.6.6
+2025-07-01 10:39:01 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-01 10:39:03 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-01 10:39:03 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-01 10:39:04 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-01 10:39:04 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-07-01 10:39:04 INFO event_listener.py:52: Created named pipe yasb-39ea2ebc-565f-11f0-99ee-d844895410d4
+2025-07-01 10:39:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-39ea2ebc-565f-11f0-99ee-d844895410d4
+2025-07-01 10:39:04 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-07-01 10:39:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-01 10:39:04 DEBUG _windows.py:192: Thread started
+2025-07-01 10:39:04 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-39ea2ebc-565f-11f0-99ee-d844895410d4
+2025-07-01 11:20:00 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-01 11:20:00 INFO event_listener.py:93: Attempting to reconnect...
+2025-07-01 11:20:05 INFO event_listener.py:52: Created named pipe yasb-39ea2ebc-565f-11f0-99ee-d844895410d4
+2025-07-01 11:20:05 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-39ea2ebc-565f-11f0-99ee-d844895410d4
+2025-07-01 11:20:05 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-07-01 23:21:15 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_af42a12b)
+2025-07-01 23:21:15 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-01 23:21:15 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_2236_76d0903a)
+2025-07-01 23:21:15 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1280, Screen Height: 720]
+2025-07-02 11:29:22 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_af42a12b)
+2025-07-02 11:29:22 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-02 11:29:22 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_2fe6c8dc)
+2025-07-02 11:29:22 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1280, Screen Height: 720]
+2025-07-02 11:29:22 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_2236_76d0903a)
+2025-07-02 11:29:22 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-02 11:31:45 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-07-02 11:31:47 INFO log.py:21: Yasb v1.6.6
+2025-07-02 11:31:47 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-02 11:31:49 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-02 11:31:49 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-02 11:32:00 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-02 11:32:00 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-07-02 11:32:01 INFO event_listener.py:52: Created named pipe yasb-c9d03199-572f-11f0-bddd-d844895410d4
+2025-07-02 11:32:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c9d03199-572f-11f0-bddd-d844895410d4
+2025-07-02 11:32:01 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-07-02 11:32:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-02 11:32:01 DEBUG _windows.py:192: Thread started
+2025-07-02 11:32:01 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-07-04 16:41:46 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-07-04 16:41:58 INFO log.py:21: Yasb v1.6.6
+2025-07-04 16:42:00 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-04 16:42:08 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-04 16:42:08 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-04 16:42:19 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-04 16:42:19 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1280, Screen Height: 720]
+2025-07-04 16:42:19 INFO event_listener.py:52: Created named pipe yasb-78349fe8-58ed-11f0-a830-d844895410d4
+2025-07-04 16:42:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-78349fe8-58ed-11f0-a830-d844895410d4
+2025-07-04 16:42:19 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-07-04 16:42:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-04 16:42:19 DEBUG _windows.py:192: Thread started
+2025-07-04 16:42:19 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-07-04 16:42:32 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{2023da5d-dfac-4fd4-9077-1c72d67283d4}
+2025-07-04 16:42:33 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{42a990cc-37aa-41f6-8227-5181e1448d89}
+2025-07-04 16:42:35 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{42a990cc-37aa-41f6-8227-5181e1448d89}
+2025-07-04 18:59:58 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_TOSHIBA-TV_852a78dd)
+2025-07-04 19:00:04 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1706, Screen Height: 720]
+2025-07-04 19:00:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_4df64cc8)
+2025-07-04 19:00:04 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2559, Screen Height: 1080]
+2025-07-04 19:00:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_7a50e0f5)
+2025-07-04 19:00:04 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 2559, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-04 19:00:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_TOSHIBA-TV_852a78dd)
+2025-07-04 19:00:04 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 4479, Y: 469, Screen Width: 1706, Screen Height: 720]
+2025-07-04 19:19:18 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_4df64cc8)
+2025-07-04 19:19:18 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-04 19:19:18 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_7a50e0f5)
+2025-07-04 19:19:18 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-04 19:19:18 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_TOSHIBA-TV_852a78dd)
+2025-07-04 19:19:18 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1280, Screen Height: 720]
+2025-07-04 19:20:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_TOSHIBA-TV_852a78dd)
+2025-07-04 19:20:04 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1706, Screen Height: 720]
+2025-07-04 19:20:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_4df64cc8)
+2025-07-04 19:20:04 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2559, Screen Height: 1080]
+2025-07-04 19:20:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_7a50e0f5)
+2025-07-04 19:20:04 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 2559, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-04 19:20:04 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_TOSHIBA-TV_852a78dd)
+2025-07-04 19:20:04 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 4479, Y: 469, Screen Width: 1706, Screen Height: 720]
+2025-07-04 19:20:40 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_4df64cc8)
+2025-07-04 19:20:40 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-04 19:20:40 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_7a50e0f5)
+2025-07-04 19:20:40 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 470, Screen Width: 1920, Screen Height: 1080]
+2025-07-04 19:20:40 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_TOSHIBA-TV_852a78dd)
+2025-07-04 19:20:40 INFO app_bar.py:103: Bar Created on Screen: TOSHIBA-TV [Bar Height: 42px, DPI Scale: 1.5, Scale Screen: True, Screen Geometry: X: 5360, Y: 469, Screen Width: 1280, Screen Height: 720]
+2025-07-05 13:49:29 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{667e79e4-f88d-44e4-a835-da52c9c39e04}
+2025-07-05 14:24:52 INFO bar_manager.py:66: Screens updated. Re-initialising all bars.
+2025-07-05 14:24:53 INFO log.py:21: Yasb v1.6.6
+2025-07-05 14:24:54 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-05 14:24:57 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-05 14:24:57 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-05 14:24:58 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 0, Screen Width: 1280, Screen Height: 720]
+2025-07-05 14:24:58 INFO log.py:21: Yasb v1.6.6
+2025-07-05 14:24:58 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-05 14:24:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-05 14:24:59 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-05 14:24:59 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-05 14:24:59 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-07-05 14:25:00 INFO event_listener.py:52: Created named pipe yasb-7371b2b7-59a3-11f0-a74f-d844895410d4
+2025-07-05 14:25:00 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7371b2b7-59a3-11f0-a74f-d844895410d4
+2025-07-05 14:25:00 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-07-05 14:25:00 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-05 14:25:00 DEBUG _windows.py:192: Thread started
+2025-07-05 14:25:00 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-07-05 18:31:28 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_a885d8ad)
+2025-07-05 18:31:29 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2559, Screen Height: 1080]
+2025-07-05 18:31:29 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_3940d7c6)
+2025-07-05 18:31:29 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 2559, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-05 18:31:43 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_a885d8ad)
+2025-07-05 18:31:43 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1366, Screen Height: 768]
+2025-07-05 18:31:43 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_3940d7c6)
+2025-07-05 18:31:43 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 1366, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-05 18:32:41 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_2236_2542c834)
+2025-07-05 18:32:41 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1366, Y: -237, Screen Width: 1366, Screen Height: 768]
+2025-07-05 18:34:09 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_a885d8ad)
+2025-07-05 18:34:09 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-05 18:34:09 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_19LD4550U_3940d7c6)
+2025-07-05 18:34:09 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-05 18:34:09 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_2236_2542c834)
+2025-07-05 18:34:09 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-07-07 14:58:19 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_2236_2542c834)
+2025-07-07 14:58:19 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-07 14:58:19 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_LG ULTRAWIDE_a885d8ad)
+2025-07-07 14:58:19 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-07-10 02:11:01 INFO log.py:21: Yasb v1.6.6
+2025-07-10 02:11:01 DEBUG win32.py:55: Looking up time zone info from registry
+2025-07-10 02:11:03 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-07-10 02:11:04 INFO app_bar.py:103: Bar Created on Screen: LG ULTRAWIDE [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 3440, Screen Height: 1440]
+2025-07-10 02:11:04 INFO app_bar.py:103: Bar Created on Screen: 19LD4550U [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 3440, Y: 254, Screen Width: 1920, Screen Height: 1080]
+2025-07-10 02:11:05 INFO app_bar.py:103: Bar Created on Screen: 2236 [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: -1080, Y: -237, Screen Width: 1080, Screen Height: 1920]
+2025-07-10 02:11:05 INFO event_listener.py:52: Created named pipe yasb-c0a57f31-5d2a-11f0-9a99-5c5f670e771f
+2025-07-10 02:11:05 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c0a57f31-5d2a-11f0-9a99-5c5f670e771f
+2025-07-10 02:11:05 INFO watcher.py:39: Created file watcher for path C:\Users\kui\.config\yasb
+2025-07-10 02:11:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-10 02:11:05 DEBUG _windows.py:192: Thread started
+2025-07-10 02:11:05 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-07-10 10:23:37 DEBUG volume.py:321: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{667e79e4-f88d-44e4-a835-da52c9c39e04}
+2025-07-10 10:45:56 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c0a57f31-5d2a-11f0-9a99-5c5f670e771f
+2025-07-10 10:47:10 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-10 10:47:10 INFO event_listener.py:93: Attempting to reconnect...
+2025-07-10 10:47:15 INFO event_listener.py:52: Created named pipe yasb-c0a57f31-5d2a-11f0-9a99-5c5f670e771f
+2025-07-10 10:47:15 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c0a57f31-5d2a-11f0-9a99-5c5f670e771f
+2025-07-10 10:47:15 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
