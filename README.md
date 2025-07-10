@@ -19,9 +19,12 @@
 
   <!-- ASCII Cat Art -->
   <pre style="color: #cba6f7; font-size: 14px; text-align: center; line-height: 1;">
-    /\_/\
-   ( o.o )
-    > ^ <
+ @@@@@@@@ @@@      @@@       @@@@@@ 
+ @@!      @@!      @@!      @@!  @@@
+ @!!!:!   @!!      @!!      @!@!@!@!
+ !!:      !!:      !!:      !!:  !!!
+ : :: ::: : ::.: : : ::.: :  :   : :
+                                    
   </pre>
 
   <!-- Header -->
