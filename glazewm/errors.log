@@ -1,0 +1,69 @@
+[2m2024-12-18T18:13:18.603671Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-12-18T18:54:56.281168Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:57.596452Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:58.333016Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:58.804592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:59.156490Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:59.381049Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:59.585919Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:59.779633Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:54:59.973824Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:00.155049Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:01.577375Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:02.966233Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:10.661598Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:10.872833Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:11.287752Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:11.539673Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:11.735961Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2024-12-18T18:55:11.916097Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-07-17T13:19:15.336955Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\ashis\Desktop\Spotify.lnk'.
+[2m2025-07-17T13:19:19.616822Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\ashis\Desktop\Spotify.lnk'.
+[2m2025-07-17T13:19:59.703930Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\ashis\Desktop\Spotify.lnk'.
+[2m2025-07-17T15:22:55.073981Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\ashis\Desktop\Discord.lnk'.
+[2m2025-07-17T15:24:23.864917Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\ashis\Desktop\Spotify.lnk'.
+[2m2025-07-17T15:25:14.076890Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\ashis\Desktop\Spotify.lnk'.
+[2m2025-07-17T15:27:09.622413Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m found unknown escape character at line 286 column 42, while parsing a quoted scalar at line 286 column 16
+[2m2025-07-17T15:38:25.337011Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'start C:\Users\kui\Pictures\aaaaaaaaaaaaaaaaaaaaa.png'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-07-17T17:47:39.771737Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[59].commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 333 column 15
+[2m2025-09-15T18:50:20.387422Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-15T18:50:29.253048Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\kui\Pictures\binds.png'.
+[2m2025-09-15T21:35:56.036784Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Users\ashis\Desktop\WhatsApp.lnk'.
