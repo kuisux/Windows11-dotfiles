@@ -110,6 +110,13 @@ window_rules:
       - window_process: { equals: "Lively" }
         window_class: { regex: "HwndWrapper*" }
 
+  - commands: ["set-floating"]
+    match:
+      # Makes any Windows Terminal windows floating and centered.
+      - window_process: { equals: "Microsoft.Photos" }
+      - window_title: { equals: "binds.png" }
+      - window_process: { equals: "GeminiDesk" }
+
 binding_modes:
   # When enabled, the focused window can be resized via arrow keys or HJKL.
   - name: "resize"
@@ -278,18 +285,22 @@ keybindings:
   - commands: ['shell-exec wt --profile "Windows PowerShell"']
     bindings: ["alt+return"]
 
+  # Open Windows Terminal Powershell floating
+
   # Open file explorer
   - commands: ["shell-exec explorer"]
     bindings: ["alt+e"]
 
   # Open keybinds image
-  - commands: ['shell-exec C:\Users\kui\Pictures\binds.png']
+  - commands: ['shell-exec C:\Users/kui/Pictures/binds.png']
+    match:
+      - window_title: { equals: "binds.png" }
     bindings: ["alt+k"]
 
   # Open browser
   - commands:
       [
-        "shell-exec cmd /c start firefox -new-window https://kuisux.github.io/newtab",
+        "shell-exec cmd /c start firefox -new-window https://kuisux.github.io/newtabterm",
       ]
     bindings: ["alt+b"]
 
@@ -338,13 +349,6 @@ keybindings:
   - commands:
       ["shell-exec cmd /c start firefox -new-window https://chat.openai.com"]
     bindings: ["alt+a"]
-
-  # Open GitHub
-  - commands:
-      [
-        "shell-exec cmd /c start firefox -new-window https://github.com/ashish0kumar",
-      ]
-    bindings: ["alt+g"]
 
   # Open LeetCode
   - commands:
