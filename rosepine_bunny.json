@@ -247,7 +247,7 @@
     },
     "background": {
         "alpha": 5,
-        "url": "https://raw.githubusercontent.com/kuisux/kuisux.github.io/refs/heads/main/startpage-Cat/src/bgs/topography.svg"
+        "url": "https://github.com/kuisux/kuisux.github.io/blob/main/startpage-Cat/src/bgs/topography.png?raw=true"
     },
     "plus": {
         "version": "0",
