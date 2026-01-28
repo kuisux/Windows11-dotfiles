@@ -102,7 +102,7 @@ widgets:
     options:
       label: "<span>{icon}</span> {temp}"
       label_alt: "<span>{icon}</span> {location}: Min {min_temp}, Max {max_temp}, Humidity {humidity}"
-      api_key: 'd35085b78cf73da4b3abe2a8f6e9b1dd'
+      api_key: '' # insert your weather api key from https://www.weatherapi.com
       update_interval: 600 #Update interval in seconds, Min 600
       hide_decimal: true
       location: 'Liverpool'
@@ -275,3 +275,4 @@ widgets:
         alignment: "right"
         direction: "down"
         distance: 6
+
