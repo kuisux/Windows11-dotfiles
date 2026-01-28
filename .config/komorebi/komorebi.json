@@ -36,6 +36,21 @@
     },
     {
       "kind": "Exe",
+      "id": "SnippingTool.exe",
+      "matching_strategy": "Equals"
+    },
+    {
+      "kind": "Class",
+      "id": "ScreenSketch",
+      "matching_strategy": "Contains"
+    },
+    {
+      "kind": "Exe",
+      "id": "ScreenSketch.exe",
+      "matching_strategy": "Equals"
+    },
+    {
+      "kind": "Exe",
       "id": "Discord.exe",
       "matching_strategy": "Equals"
     },
