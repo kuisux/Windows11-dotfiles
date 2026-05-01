@@ -1,0 +1,10 @@
+{
+  "name": "Maple Mono",
+  "mainFont": "MapleMono-Regular",
+  "fonts": [
+    {
+      "font": "MapleMono-Regular",
+      "url": "https://github.com/kuisux/Windows11-dotfiles/raw/refs/heads/main/MapleMono-Regular.ttf"
+    }
+  ]
+}
