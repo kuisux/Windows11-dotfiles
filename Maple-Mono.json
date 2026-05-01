@@ -1,5 +1,7 @@
 {
+  "spec": 3,
   "name": "Maple Mono",
+  "description": "Custom monospace font for Izzy",
   "mainFont": "MapleMono-Regular",
   "fonts": [
     {
